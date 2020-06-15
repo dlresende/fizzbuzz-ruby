@@ -1,4 +1,6 @@
-require "fizzbuzz/version"
+# frozen_string_literal: true
+
+require 'fizzbuzz/version'
 
 module Fizzbuzz
   class Error < StandardError; end

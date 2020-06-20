@@ -12,3 +12,5 @@
 
 # this is a gem, ignore Gemfile.lock
 Gemfile.lock
+
+*.gem

@@ -5,8 +5,9 @@
 
 This is an experiment exploring:
 - building and publishing a Ruby gem
-- the gem can be used as a binary
-- Ruby code coverage 
+- using the gem as a binary
+- generating code coverage
+- auto-bump dependencies
 
 The word game [Fizz buzz](https://en.wikipedia.org/wiki/Fizz_buzz) was used as a basis for this exercise.
 

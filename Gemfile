@@ -13,6 +13,7 @@ group :development do
 end
 
 group :development do
+  gem 'codecov', '~> 0.1.17'
   gem 'rubocop-rake', '~> 0.5.1'
   gem 'simplecov', '~> 0.18.5'
 end

@@ -8,6 +8,11 @@ gemspec
 gem 'rake', '~> 12.0'
 gem 'rspec', '~> 3.0'
 
-gem 'solargraph', '~> 0.39.8', group: :development
+group :development do
+  gem 'solargraph', '~> 0.39.8'
+end
 
-gem 'simplecov', '~> 0.18.5', group: :test
+group :development do
+  gem 'rubocop-rake', '~> 0.5.1'
+  gem 'simplecov', '~> 0.18.5'
+end

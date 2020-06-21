@@ -7,6 +7,6 @@ env:
   - CI=true
 before_install: gem install bundler
 script:
-  - bundle install
+  - ./bin/setup
   - bundle exec rake rubocop
   - bundle exec rake spec

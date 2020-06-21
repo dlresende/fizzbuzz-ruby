@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/dlresende/fizzbuzz.svg?branch=ruby)](https://travis-ci.com/dlresende/fizzbuzz)
+
 # Fizzbuzz
 
 This is an experiment exploring:

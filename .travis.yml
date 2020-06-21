@@ -3,6 +3,8 @@ language: ruby
 cache: bundler
 rvm:
   - 2.7.1
+env:
+  - CI=true
 before_install: gem install bundler
 script:
   - bundle install

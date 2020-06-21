@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.com/dlresende/fizzbuzz.svg?branch=master)](https://travis-ci.com/dlresende/fizzbuzz)
+[![codecov](https://codecov.io/gh/dlresende/fizzbuzz/branch/master/graph/badge.svg)](https://codecov.io/gh/dlresende/fizzbuzz)
 
 # Fizzbuzz
 

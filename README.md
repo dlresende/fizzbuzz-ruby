@@ -16,7 +16,7 @@ The word game [Fizz buzz](https://en.wikipedia.org/wiki/Fizz_buzz) was used as a
 
 Install it yourself as:
 
-    $ gem install fizzbuzz
+    $ gem install fizzbuzz --source https://repo.fury.io/dlresende/
 
 ## Usage
 
@@ -45,7 +45,7 @@ fizzbuzz
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `bundle exec rake spec` to run the tests (code coverage will be available at `coverage/index.html`). You can also run `bin/console` for an interactive prompt that will allow you to experiment.
 
-To install this gem onto your local machine, run `bundle exec rake install`. To release a new version, update the version number in `version.rb`, and then run `bundle exec rake release`, which will create a git tag for the version, push git commits and tags, and push the `.gem` file to [rubygems.org](https://rubygems.org).
+To install this gem onto your local machine, run `bundle exec rake install`. To release a new version, update the version number in `version.rb`, and then run `bundle exec rake release`, which will create a git tag for the version, push git commits and tags, and push the `.gem` file to [gemfury.com](https://gemfury.com/dlresende).
 
 Run `bundle exec rake rubocop` perform code analysis.
 

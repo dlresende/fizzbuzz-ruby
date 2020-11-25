@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.com/dlresende/fizzbuzz.svg?branch=ruby)](https://travis-ci.com/dlresende/fizzbuzz)
-[![codecov](https://codecov.io/gh/dlresende/fizzbuzz/branch/ruby/graph/badge.svg)](https://codecov.io/gh/dlresende/fizzbuzz)
+[![Build Status](https://travis-ci.com/dlresende/fizzbuzz.svg?branch=main)](https://travis-ci.com/dlresende/fizzbuzz)
+[![codecov](https://codecov.io/gh/dlresende/fizzbuzz/branch/main/graph/badge.svg)](https://codecov.io/gh/dlresende/fizzbuzz)
 
 # Fizzbuzz
 

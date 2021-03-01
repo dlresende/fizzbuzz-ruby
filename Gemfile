@@ -6,7 +6,7 @@ source 'https://rubygems.org'
 gemspec
 
 group :development do
-  gem 'codecov', '~> 0.2.3'
+  gem 'codecov', '~> 0.4.3'
   gem 'rake', '~> 13.0'
   gem 'rspec', '~> 3.0'
   gem 'rubocop-rake', '~> 0.5.1'

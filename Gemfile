@@ -11,5 +11,5 @@ group :development do
   gem 'rspec', '~> 3.0'
   gem 'rubocop-rake', '~> 0.5.1'
   gem 'simplecov', '~> 0.18.5'
-  gem 'solargraph', '~> 0.39.8'
+  gem 'solargraph', '~> 0.42.3'
 end
